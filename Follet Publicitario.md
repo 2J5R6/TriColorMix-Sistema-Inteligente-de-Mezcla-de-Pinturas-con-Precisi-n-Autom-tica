@@ -102,21 +102,21 @@ Basado en precios promedio en Colombia (MercadoLibre, Electrónica Ktronix, AliE
 
 | Componente | Costo estimado (COP) |
 |------------|-----------------------|
-| ESP32-S3 | $38.000 – $55.000 |
+| ESP32-S3 | $19.000 – $25.000 |
 | 3 Bombas peristálticas | $45.000 c/u ≈ $135.000 |
-| Servomotor (SG90 o MG995) | $15.000 – $38.000 |
-| Motor DC 5V + imanes | $15.000 – $25.000 |
+| Servomotor (SG90 o MG995) | $10.000 – $17.000 |
+| Motor DC 5V + imanes | $7.000 – $25.000 |
 | Mangueras grado alimentario | $8.000 |
 | Tanques/botellas desmontables | $10.000 – $18.000 |
-| Puentes H (L298N o similar) | $18.000 – $30.000 |
-| Final de carrera | $4.000 |
-| Sensor IR | $6.000 |
-| Batería 12V | $35.000 – $60.000 |
+| Puentes H (L298N o similar) | $12.000 – $30.000 |
+| Final de carrera | $2.000 |
+| Sensor IR | $4.000 |
+| Batería 12V | $25.000 – $60.000 |
 | Estructura (impresión 3D o MDF) | $40.000 – $80.000 |
-| Tornillería y cableado | $10.000 |
+| Tornillería y cableado | $7.000 |
 
 ### **🔵 Total estimado del prototipo:**  
-## **$350.000 – $480.000 COP**
+## **$240.000 – $395.000 COP**
 
 *(Menos de 500 mil pesos por un prototipo completamente funcional.)*
 

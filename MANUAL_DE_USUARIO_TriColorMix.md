@@ -106,12 +106,12 @@ Posiciones sugeridas: **0°**, **45°**, **90°**, **135°**.
 
 | Componente | Pin ESP32-S3 |
 |-----------|--------------|
-| Bomba Roja | GPIO 14 |
-| Bomba Azul | GPIO 15 |
-| Bomba Amarilla | GPIO 16 |
-| Servomotor | GPIO 4 |
+| Bomba Roja | GPIO 16 |
+| Bomba Azul | GPIO 17 |
+| Bomba Amarilla | GPIO 18 |
+| Servomotor | GPIO 8 |
 | Motor DC (agitación) | GPIO 17 |
-| Final de carrera | GPIO 13 |
+| Final de carrera | GPIO 5 |
 | Sensor IR | GPIO 2 |
 
 ### 6. Inserción de Pastilla Magnética  

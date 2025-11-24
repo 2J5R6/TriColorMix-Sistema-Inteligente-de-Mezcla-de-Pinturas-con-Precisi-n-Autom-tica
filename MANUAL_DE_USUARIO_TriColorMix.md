@@ -121,7 +121,7 @@ Coloque la pastilla magnética dentro del vaso antes del proceso.
 
 ## 📸 Imagen del Prototipo  
 
-![alt text](<Imagen de WhatsApp 2025-11-24 a las 11.39.00_01f23fba.jpg>)
+![alt text](<Prototipo.jpg>)
 
 ---
 

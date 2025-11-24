@@ -4,7 +4,7 @@
 
 ---
 
-![Paint Mixer Image](https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=1080)
+![Paint Mixer Image](https://st4.depositphotos.com/1208575/39148/i/450/depositphotos_391483686-stock-illustration-oil-painting-landscape-colorful-abstract.jpg)
 
 ---
 

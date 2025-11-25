@@ -4,7 +4,7 @@
 
 ---
 
-![TriColorMix Hero Image](https://images.unsplash.com/photo-1513364776144-60967b0f800f?q=80&w=1080)
+![TriColorMix Hero Image](Prototipo_final.jpg)
 
 ---
 
@@ -50,6 +50,7 @@ El equipo es portátil, seguro, fácil de limpiar, ecológico y totalmente modul
 ---
 
 # 🟥 Componentes del Sistema
+![alt text](Bomba_peristaltica.jpg)
 
 ### 🔧 Actuadores
 - 3 Bombas peristálticas (Rojo, Amarillo, Azul)  
@@ -121,7 +122,7 @@ Coloque la pastilla magnética dentro del vaso antes del proceso.
 
 ## 📸 Imagen del Prototipo  
 
-![alt text](<Prototipo.jpg>)
+![alt text](<Prototipo_completo.jpg>)
 
 ---
 
